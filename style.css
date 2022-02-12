@@ -82,3 +82,16 @@ input{
     font-size: 3rem;
     /* font-weight: 100; */
 }
+
+
+
+@media (max-width:728px){
+    body{
+      /* background-color: red; */
+    }
+
+    html{
+        font-size: 40%;
+    }
+  }
+
